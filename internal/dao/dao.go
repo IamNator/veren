@@ -3,7 +3,7 @@ package dao
 import (
 	"fmt"
 
-	"github.com/IamNator/veren/http/logger"
+	"github.com/IamNator/veren/internal/logger"
 	"github.com/jinzhu/gorm"
 	_ "github.com/jinzhu/gorm/dialects/mysql"
 )

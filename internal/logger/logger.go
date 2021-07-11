@@ -10,7 +10,7 @@ var Logger *log.Logger
 
 // var logglyToken = ""
 
-// var url = "http://logs-01.loggly.com/inputs//tag/http/"
+// var url = "http://logs-01.loggly.com/inputs//tag/internal/"
 
 func init() {
 
