@@ -18,8 +18,6 @@ type CONFIG struct {
 	PORT string `json:"_" mapstructure:"PORT"`
 
 	AppName          string `mapstructure:"APP_NAME"`
-	ValidateTokenURL string `mapstructure:"VALIDATE_TOKEN_URL"`
-	AssessmentURL    string `mapstructure:"ASSESSMENT_URL"`
 }
 
 //LoadConfig reads configurations from app.env file
