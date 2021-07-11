@@ -3,8 +3,8 @@ package main
 import (
 	"net/http"
 
-	"github.com/IamNator/veren/http/config"
-	"github.com/IamNator/veren/http/logger"
+	"github.com/IamNator/veren/internal/config"
+	"github.com/IamNator/veren/internal/logger"
 )
 
 func main() {
