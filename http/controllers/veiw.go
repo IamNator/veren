@@ -2,7 +2,7 @@ package controllers
 
 import "net/http"
 
-//HomePage serves the first page of the application
-func HomePage(w http.ResponseWriter, r *http.Request) {
+//HomePageHandler serves the first page of the application
+func HomePageHandler(w http.ResponseWriter, r *http.Request) {
 
 }
