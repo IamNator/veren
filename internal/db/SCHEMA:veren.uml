@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>DATABASE</ID>
+  <OriginalElement>617cd2d2-0d15-47c8-8af2-750a769eeb74.SCHEMA:veren</OriginalElement>
+  <nodes>
+    <node x="107.0" y="161.0">617cd2d2-0d15-47c8-8af2-750a769eeb74.TABLE:veren.device</node>
+    <node x="161.0" y="0.0">617cd2d2-0d15-47c8-8af2-750a769eeb74.TABLE:veren.log</node>
+    <node x="0.0" y="342.0">617cd2d2-0d15-47c8-8af2-750a769eeb74.TABLE:veren.user</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="617cd2d2-0d15-47c8-8af2-750a769eeb74.TABLE:veren.device" target="617cd2d2-0d15-47c8-8af2-750a769eeb74.TABLE:veren.user" relationship="REFERENCES">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="617cd2d2-0d15-47c8-8af2-750a769eeb74.TABLE:veren.log" target="617cd2d2-0d15-47c8-8af2-750a769eeb74.TABLE:veren.device" relationship="REFERENCES">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic" zoom="0.9574829931972789" showDependencies="false" x="167.5" y="284.0" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Columns</Category>
+    <Category>Comments</Category>
+    <Category>Key columns</Category>
+    <Category>Virtual foreign keys</Category>
+  </Categories>
+</Diagram>
+
