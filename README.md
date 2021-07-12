@@ -3,7 +3,7 @@ An IoT project with Golang and vuejs to automate my room
 
 
 ## Purpose  
-veren manages home appliances. I stay in a single room apartment, it's my office and home. I want to automate the little things such as turning on/off my light bulbs and sockets. I want to do that over the internet via a website/app. I also want to keep track of all everything. I hope in extending this service to the neighboring rooms. Possibly convince them to use it. Just to make it better.
+veren manages home appliances. I stay in a single room apartment, it's my office and home. I want to automate the little things such as turning on/off my light bulbs and sockets. I want to do that over the internet via a website/app. I also want to keep track of everything I do to my appliances. I hope in extending this service to the neighboring rooms. Possibly convince them to use it. Just to make it better.
 
 
 
