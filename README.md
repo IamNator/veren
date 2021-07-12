@@ -1,5 +1,5 @@
 # veren
-an IoT project with Golang, C and python to automate my room
+An IoT project with Golang and vuejs to automate my room
 
 
 ## Purpose  
