@@ -9,4 +9,4 @@ veren manages home appliances. I stay in a single room apartment, it's my office
 
 ## Details
 The app is built as a microservice with a frontend attached to it.   
-The frontend is built with vuejs while the backend is written in Golang. Mysql is used as the database management.  
+The frontend is built with vuejs while the backend is written in Golang. Mysql is used for database management.  
